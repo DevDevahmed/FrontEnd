@@ -36,17 +36,9 @@ This repository contains the frontend application for **Buildini**, a constructi
 
 
 
-
-
-<!-- Licensing of Template -->
-# Licensing
-- <p>Copyright 2024 Wrappixel <a href="https://www.wrappixel.com/">https://wrappixel.com/</a></p>
-- <p>Licensed under MIT <a href="https://www.wrappixel.com/license/">https://wrappixel.com/license/</a></p>
-
-
 <!-- Social Media of Adminmart -->
 # Social Media 👭🏼
-- <p>Linkedin: <a href="[https://www.linkedin.com/company/wrappixel/](https://www.linkedin.com/posts/ahmed-jaouadi-330522246_constructiontech-innovation-buildini-activity-7328166806127325184-4LVO?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiajrQBzc6TN2x3HCHS7-t7wujnjEgsVDg)">https://www.linkedin.com/posts/buildini/</a></p>
+- <p>Linkedin: <a href="https://www.linkedin.com/posts/ahmed-jaouadi-330522246_constructiontech-innovation-buildini-activity-7328166806127325184-4LVO?utm_source=share&utm_medium=member_desktop&rcm=ACoAADiajrQBzc6TN2x3HCHS7-t7wujnjEgsVDg">https://www.linkedin.com/posts/buildini/</a></p>
 
 
 
